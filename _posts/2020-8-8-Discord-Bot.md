@@ -2,7 +2,7 @@
 Title: I made a Discord Bot
 ---
 
-![DiscordBot](/emerald/img/DiscordBotBlogIgamge "DiscordBot")
+![DiscordBot](/emerald/img/DiscordBot.png "DiscordBot")
 # So i made a discord bot
 ### The bot is verry simple  this is what it can do:
   - Check The Amount of players on a minecraft server
