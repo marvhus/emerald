@@ -9,8 +9,6 @@ Title: I made a Discord Bot
   - Check the max players on a minecrfat server
   - see the ip
 
-<br />
-
 But one disatvantage is that its only set to check one server.
 
 ---
