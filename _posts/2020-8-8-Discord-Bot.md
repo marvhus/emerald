@@ -8,12 +8,14 @@ Title: I made a Discord Bot
   - Check The Amount of players on a minecraft server
   - Check the max players on a minecrfat server
   - see the ip
+
 <br />
-### But one disatvantage is that its only set to check one server.
+
+But one disatvantage is that its only set to check one server.
 
 ---
 
-## I call the bot     Vjnce Sserver Checker
+## I call the bot     Vjnce Server Checker
 
 ### You can see the commands by doing !help  and you can check the server status with !mc
 
