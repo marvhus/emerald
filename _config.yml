@@ -1,14 +1,14 @@
 # Site settings
 title: marvhus Blog
 description: "A minimal blog template, build with Jekyll."
-url: "https://marvhus.github.io/emerald/"
+url: "https://marvhus.github.io/blog/"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
